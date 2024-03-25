@@ -1,15 +1,21 @@
-### Hi there 👋
+
+
+  <h1>
+    Welcome to my Github Profile!
+  </h1>
+
   
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hello there, My name is Chris
-
-========================================================
+<hr>
 
 Full-Stack Software Development Student
 ---------------------------------------
 
 I've got a background in the 3D Design and 2D Print Media Industries, currently branching out and taking on Full-Stack Software Development.* 
 
-🌍  I'm based in Toronto
+-   I'm based in Toronto<br>
+-   Currently attending LHL Full Stack Web Flex Bootcamp
+
 
 ### Skills
 
@@ -23,14 +29,22 @@ I've got a background in the 3D Design and 2D Print Media Industries, currently 
 
 
 
+
 ### My GitHub Stats
 
-<a href="https://github.com/ChrisPytel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPytel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>
+  <a href="https://github.com/ChrisPytel">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChrisPytel&theme=radical">
+  </a>
+</p>
+
+
+<a href="https://github.com/ChrisPytel" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPytel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <h3>Top Repositories</h3>
 
-<div width="100%" align="center"><a href="https://github.com/ChrisPytel/tinyapp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=tinyapp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div> <br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/ChrisPytel/tinyapp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=tinyapp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
 
-
-<a href="http://www.github.com/ChrisPytel"><img src="https://github-readme-stats.vercel.app/api?username=ChrisPytel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ChrisPytel's GitHub stats" /></a>
-
+<div width="100%" align="center"><a href="https://github.com/ChrisPytel/tinyapp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=tinyapp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
