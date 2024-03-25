@@ -41,16 +41,19 @@ I'm based in Toronto, and currently attending LHL Full Stack Web Flex Bootcamp. 
  
 ## Top Repositories
 
-
-<div><a href="https://github.com/ChrisPytel/tinyapp"><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=tinyapp&title_color=73b4ff&text_color=ffffff&icon_color=73b4ff&bg_color=26262c&hide_border=true&locale=en" /></a>
+<div style= "display:flex; flex-wrap:wrap;">
+<a href="https://github.com/ChrisPytel/tinyapp"><img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=tinyapp&title_color=73b4ff&text_color=ffffff&icon_color=73b4ff&bg_color=26262c&hide_border=true&locale=en" /></a>
 
 <a href="https://github.com/ChrisPytel/tweeter">
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=tweeter&title_color=73b4ff&text_color=ffffff&icon_color=73b4ff&bg_color=26262c&hide_border=true&locale=en" /></a>
+<img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=tweeter&title_color=73b4ff&text_color=ffffff&icon_color=73b4ff&bg_color=26262c&hide_border=true&locale=en" /></a>
+</div>
 
+<div style= "display:flex;">
 <a href="https://github.com/ChrisPytel/iss_spotter">
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=iss_spotter&title_color=73b4ff&text_color=ffffff&icon_color=73b4ff&bg_color=26262c&hide_border=true&locale=en" /></a>
+<img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=iss_spotter&title_color=73b4ff&text_color=ffffff&icon_color=73b4ff&bg_color=26262c&hide_border=true&locale=en" /></a>
 
-<a href="https://github.com/ChrisPytel/lighthouse-web-notes"><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=lighthouse-web-notes&title_color=73b4ff&text_color=ffffff&icon_color=73b4ff&bg_color=26262c&hide_border=true&locale=en" /></a>
+<a href="https://github.com/ChrisPytel/lighthouse-web-notes"><img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=lighthouse-web-notes&title_color=73b4ff&text_color=ffffff&icon_color=73b4ff&bg_color=26262c&hide_border=true&locale=en" /></a>
+
 </div>
 
 
