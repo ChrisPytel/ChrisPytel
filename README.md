@@ -64,18 +64,21 @@ I'm based in Toronto, and currently attending LHL Full Stack Web Flex Bootcamp. 
 
  
 ## My Favorite Apps
+
 <div style= "display:flex; flex-wrap:wrap;">
   <a href="https://github.com/ChrisPytel/handy-vsc-snippets">
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=handy-vsc-snippets&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&locale=en" /></a>
+  <img width="48%" height= "100px"  src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=handy-vsc-snippets&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&locale=en" /></a>
 
   <a href="https://github.com/ChrisPytel/tweeter">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=tweeter&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&locale=en" /></a>
+  <img width="48%" height= "100px"  src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=tweeter&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&locale=en" /></a>
 </div>
 
 <div style= "display:flex; flex-wrap:wrap;">
-  <a href="https://github.com/ChrisPytel/tinyapp"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=tinyapp&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/ChrisPytel/tinyapp">
+  <img width="48%" height= "100px"  src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=tinyapp&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&locale=en" /></a>
 
-  <a href="https://github.com/ChrisPytel/lighthouse-web-notes"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=lighthouse-web-notes&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/ChrisPytel/lighthouse-web-notes">
+  <img width="48%" height= "100px"  src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=lighthouse-web-notes&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&locale=en" /></a>
 </div>
 
 
