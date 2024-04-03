@@ -7,9 +7,9 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" align="left" />
 
-Nice to see you here, My name is Christopher!
+**Nice to see you here, My name is Christopher!**
 
-I've got a experience in the 3D Design and Print Media Industries, currently branching out and taking on Full-Stack Software Development. I want to combine my current expertise in Graphic and 3D design and make some great web based applications.<br><br>
+I've got experience in the 3D Design, Graphic Design and Print Media Industries. Im currently branching out and taking on Full-Stack Software Development. I want to combine my current expertise in Graphic and 3D design and make some great web based applications.<br><br>
 I'm based in Toronto, and currently attending LHL Full Stack Web Flex Bootcamp. 🚀
 
 
@@ -64,16 +64,17 @@ I'm based in Toronto, and currently attending LHL Full Stack Web Flex Bootcamp. 
 
  
 ## My Favorite Apps
-
 <div style= "display:flex; flex-wrap:wrap;">
-  <a href="https://github.com/ChrisPytel/tinyapp"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=tinyapp&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/ChrisPytel/handy-vsc-snippets">
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=handy-vsc-snippets&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&locale=en" /></a>
+
   <a href="https://github.com/ChrisPytel/tweeter">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=tweeter&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&locale=en" /></a>
 </div>
 
 <div style= "display:flex; flex-wrap:wrap;">
-  <a href="https://github.com/ChrisPytel/iss_spotter">
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=iss_spotter&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/ChrisPytel/tinyapp"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=tinyapp&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&locale=en" /></a>
+
   <a href="https://github.com/ChrisPytel/lighthouse-web-notes"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPytel&repo=lighthouse-web-notes&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&locale=en" /></a>
 </div>
 
