@@ -1,7 +1,7 @@
   #  Welcome to my Github Page!
 
 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE0MDQ1MzgsIm5iZiI6MTcxMTQwNDIzOCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI1VDIyMDM1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWViNjJiYzc0YzE3YjM5YzA2NmI0MTA1NjYyNGNlZjE2NDkyODM0NzVmODczYjQyZTE1NTViMTViMzEyZmIyMGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mximF4W8mEK6GPKPwUkq_bku4nbYCoeoDZoaeb3NHkY" align="right" width="50%"  alt="Aesthetic Evening Laptop" style="margin-left: 20px; margin-bottom: 20px; border-radius: 6px;">
+<a href="https://http.cat/status/404" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/OFzoUWB.gif" align="right" width="50%"  alt="Evening Coding Vibes" style="margin-left: 20px; margin-bottom: 20px; border-radius: 6px;">
 </a>
 
 
@@ -49,7 +49,8 @@ I'm based in Toronto, and currently attending LHL Full Stack Web Flex Bootcamp. 
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>   
   </a> </p>
-</div>
+</div>ls
+
 
 
 
